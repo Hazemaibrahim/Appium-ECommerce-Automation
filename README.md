@@ -9,9 +9,15 @@ The automation tests cover end-to-end scenarios, including product browsing, add
 Before getting started, ensure that you have the following software and tools installed:
 
  **Java
+
  **Eclipse IDE
+
  **Maven
+
  **Appium
+
  **Android SDK and emulator and physical Android device
+
  **TestNG (usually included in Eclipse IDE)
+
  **General-Store apk installed, you can download it from this link: https://drive.google.com/file/d/1Pj-9Zg06UiQIpqUi88TrrtMtFe9VPr1S/view
