@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-27T01:50:32 EET" name="Suite" finished-at="2023-10-27T01:52:52 EET" duration-ms="140233">
+    <groups>
+    </groups>
+    <test started-at="2023-10-27T01:50:32 EET" name="Verify Empty Name Error" finished-at="2023-10-27T01:51:10 EET" duration-ms="37963">
+      <class name="org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_1">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_1@5bf0d49]" started-at="2023-10-27T01:50:32 EET" name="ConfigureAppium" finished-at="2023-10-27T01:50:37 EET" duration-ms="5768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="verifyEmptyNameError()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_1@5bf0d49]" started-at="2023-10-27T01:50:37 EET" name="verifyEmptyNameError" finished-at="2023-10-27T01:51:09 EET" duration-ms="31520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyNameError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_1@5bf0d49]" started-at="2023-10-27T01:51:09 EET" name="tearDown" finished-at="2023-10-27T01:51:10 EET" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_1 -->
+    </test> <!-- Verify Empty Name Error -->
+    <test started-at="2023-10-27T01:51:10 EET" name="End to End Faremwork Test" finished-at="2023-10-27T01:52:19 EET" duration-ms="68863">
+      <class name="org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_2">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_2@4116aac9]" started-at="2023-10-27T01:51:10 EET" name="ConfigureAppium" finished-at="2023-10-27T01:51:15 EET" duration-ms="5458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="eCommerceWorkFlow()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_2@4116aac9]" started-at="2023-10-27T01:51:15 EET" name="eCommerceWorkFlow" finished-at="2023-10-27T01:52:18 EET" duration-ms="62901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eCommerceWorkFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_2@4116aac9]" started-at="2023-10-27T01:52:18 EET" name="tearDown" finished-at="2023-10-27T01:52:19 EET" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_2 -->
+    </test> <!-- End to End Faremwork Test -->
+    <test started-at="2023-10-27T01:52:19 EET" name="Verify Empty Cart Test" finished-at="2023-10-27T01:52:52 EET" duration-ms="33364">
+      <class name="org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_3">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_3@1a677343]" started-at="2023-10-27T01:52:19 EET" name="ConfigureAppium" finished-at="2023-10-27T01:52:24 EET" duration-ms="5753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="verifyEmptyCartError()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_3@1a677343]" started-at="2023-10-27T01:52:24 EET" name="verifyEmptyCartError" finished-at="2023-10-27T01:52:52 EET" duration-ms="27205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCartError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_3@1a677343]" started-at="2023-10-27T01:52:52 EET" name="tearDown" finished-at="2023-10-27T01:52:52 EET" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.MobileAutomation.AndroidAutomationProject.eCommerceTestCase_3 -->
+    </test> <!-- Verify Empty Cart Test -->
+  </suite> <!-- Suite -->
+</testng-results>
